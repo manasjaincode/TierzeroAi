@@ -5,9 +5,9 @@ import collegeData from './dataset.json'; // Data imported from JSON file
 
 // IMPORTANT: Replace these with your actual Gemini API Keys
 const GEMINI_API_KEYS = [
-    "AIzaSyAsUoCwHh41OJsIa0tyM4TWggrlcny-Xa4", // Primary Key (Current)
+    "Ajza567AsUoCwHh41OJsIa0tyM4TWggrlcny-Xa4", // Primary Key (Current)
     "AKzaSyAsUoCwHh41OJsIa0tWyM4TTffrljns-ye6",          // Fallback Key 1
-    "DRzaSyJsUoCwHh41OJuIa0tWyM8Tffrkjns-yf6"            // Fallback Key 2
+    "DRzaSyJsUoC8wHh41OJuIa0tWyM8Tffrkjns-yf8"            // Fallback Key 2
 ];
 
 const MODEL_NAME = "gemini-2.5-flash";
